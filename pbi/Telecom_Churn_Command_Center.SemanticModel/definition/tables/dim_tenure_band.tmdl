@@ -1,0 +1,40 @@
+table dim_tenure_band
+	lineageTag: a9fd18c6-4a7d-4e66-2fc7-3c9b6a4d7f06
+
+	column tenure_band_key
+		dataType: int64
+		formatString: 0
+		isKey
+		lineageTag: 06f7a8b9-0001
+		summarizeBy: none
+
+	column tenure_band_label
+		dataType: string
+		lineageTag: 06f7a8b9-0002
+		summarizeBy: none
+
+	column min_months
+		dataType: int64
+		formatString: 0
+		lineageTag: 06f7a8b9-0003
+		summarizeBy: none
+
+	column max_months
+		dataType: int64
+		formatString: 0
+		lineageTag: 06f7a8b9-0004
+		summarizeBy: none
+
+	column lifecycle_stage
+		dataType: string
+		lineageTag: 06f7a8b9-0005
+		summarizeBy: none
+
+	partition dim_tenure_band = m
+		mode: import
+		source =
+			let
+				Source = Csv.Document(File.Contents("../data/clean/dim_tenure_band.csv"),[Delimiter=",", Columns=5, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
+			in
+				#"Promoted Headers"

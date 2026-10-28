@@ -1,0 +1,96 @@
+-------------------------------------------------------------------------------
+-- PROJECT 5: TELECOM CHURN PREDICTION - ENTERPRISE DAX MEASURES
+-- Author: worker_m5_telco
+-- Validated against Microsoft Fabric TMDL Semantic Model Standards
+-------------------------------------------------------------------------------
+
+-- 1. Base Customer Counts
+[Total Customers] = 
+COUNTROWS(fact_churn_analysis)
+
+[Churned Customers] = 
+CALCULATE(
+    COUNTROWS(fact_churn_analysis),
+    fact_churn_analysis[churn_flag] = 1
+)
+
+[Retained Customers] = 
+CALCULATE(
+    COUNTROWS(fact_churn_analysis),
+    fact_churn_analysis[churn_flag] = 0
+)
+
+-- 2. Churn Rate
+[Churn Rate %] = 
+DIVIDE(
+    [Churned Customers],
+    [Total Customers],
+    0.0
+)
+
+-- 3. Monthly & Lifetime Financials
+[Total MRR] = 
+SUM(fact_churn_analysis[monthly_charges])
+
+[Churned MRR] = 
+CALCULATE(
+    SUM(fact_churn_analysis[monthly_charges]),
+    fact_churn_analysis[churn_flag] = 1
+)
+
+[Average Monthly Charges] = 
+AVERAGE(fact_churn_analysis[monthly_charges])
+
+[Total Lifetime Charges] = 
+SUM(fact_churn_analysis[total_charges])
+
+-- 4. Revenue & CLV at Risk
+[Revenue at Risk] = 
+CALCULATE(
+    [Total MRR],
+    fact_churn_analysis[churn_flag] = 1 || RELATED(dim_risk_tier[risk_tier_label]) = "High"
+)
+
+[High Risk Customer Count] = 
+CALCULATE(
+    COUNTROWS(fact_churn_analysis),
+    RELATED(dim_risk_tier[risk_tier_label]) = "High"
+)
+
+[High Risk Customer Share %] = 
+DIVIDE(
+    [High Risk Customer Count],
+    [Total Customers],
+    0.0
+)
+
+[Total CLV at Risk] = 
+CALCULATE(
+    SUM(fact_churn_analysis[clv_estimate]),
+    RELATED(dim_risk_tier[risk_tier_label]) = "High"
+)
+
+-- 5. Tenure Lifecycle
+[Average Tenure Months] = 
+AVERAGE(fact_churn_analysis[tenure_months])
+
+-- 6. Interactive What-If Retention Campaign Simulation
+[Simulated Save Rate %] = 
+0.18
+
+[Simulated Cost Per Offer] = 
+35.00
+
+[Simulated Net Preserved Revenue] = 
+VAR HighRiskRev = [Revenue at Risk]
+VAR SavedRev = HighRiskRev * 12 * [Simulated Save Rate %]
+VAR TotalCost = [High Risk Customer Count] * [Simulated Cost Per Offer]
+RETURN
+SavedRev - TotalCost
+
+[Campaign ROI %] = 
+VAR HighRiskCount = [High Risk Customer Count]
+VAR TotalCost = HighRiskCount * [Simulated Cost Per Offer]
+VAR NetRev = [Simulated Net Preserved Revenue]
+RETURN
+DIVIDE(NetRev, TotalCost, 0.0)

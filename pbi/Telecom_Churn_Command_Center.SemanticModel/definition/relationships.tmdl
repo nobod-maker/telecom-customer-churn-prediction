@@ -1,0 +1,23 @@
+relationship 5304bfa4-0e3a-4a57-b0a1-9a7061d31d01
+	fromColumn: fact_churn_analysis.customer_key
+	toColumn: dim_customer.customer_key
+
+relationship 63b8214f-4d6f-40f4-8a18-d748a044f502
+	fromColumn: fact_churn_analysis.contract_key
+	toColumn: dim_contract.contract_key
+
+relationship 78d91c20-7f28-449e-b9ef-6022e0323303
+	fromColumn: fact_churn_analysis.service_key
+	toColumn: dim_service_profile.service_key
+
+relationship 84e72355-1f99-4c8d-965a-8b3d8753d404
+	fromColumn: fact_churn_analysis.payment_key
+	toColumn: dim_payment_profile.payment_key
+
+relationship 91a13466-2a88-4a12-872e-9d2c9864e505
+	fromColumn: fact_churn_analysis.tenure_band_key
+	toColumn: dim_tenure_band.tenure_band_key
+
+relationship a2b24577-3b99-4b23-983f-0e3d0975f606
+	fromColumn: fact_churn_analysis.risk_tier_key
+	toColumn: dim_risk_tier.risk_tier_key

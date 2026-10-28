@@ -1,0 +1,5 @@
+payment_key,payment_method,is_automatic_flag,payment_category
+1,Electronic check,0,Electronic Direct
+2,Credit card (automatic),1,Automated Bank/Card
+3,Mailed check,0,Physical Check
+4,Bank transfer (automatic),1,Automated Bank/Card

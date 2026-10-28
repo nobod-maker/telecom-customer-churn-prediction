@@ -1,0 +1,40 @@
+table dim_risk_tier
+	lineageTag: b0ae29d7-5b8e-4f77-3ad8-4da07b5e8a07
+
+	column risk_tier_key
+		dataType: int64
+		formatString: 0
+		isKey
+		lineageTag: 07a8b9c0-0001
+		summarizeBy: none
+
+	column risk_tier_label
+		dataType: string
+		lineageTag: 07a8b9c0-0002
+		summarizeBy: none
+
+	column min_probability
+		dataType: double
+		formatString: 0.0%
+		lineageTag: 07a8b9c0-0003
+		summarizeBy: none
+
+	column max_probability
+		dataType: double
+		formatString: 0.0%
+		lineageTag: 07a8b9c0-0004
+		summarizeBy: none
+
+	column recommended_retention_action
+		dataType: string
+		lineageTag: 07a8b9c0-0005
+		summarizeBy: none
+
+	partition dim_risk_tier = m
+		mode: import
+		source =
+			let
+				Source = Csv.Document(File.Contents("../data/clean/dim_risk_tier.csv"),[Delimiter=",", Columns=5, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
+			in
+				#"Promoted Headers"

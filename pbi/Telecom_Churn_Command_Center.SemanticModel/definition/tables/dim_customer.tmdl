@@ -1,0 +1,66 @@
+table dim_customer
+	lineageTag: c5b9d4e2-0c3f-4a22-8b83-9e5d2c0f3b02
+
+	column customer_key
+		dataType: int64
+		formatString: 0
+		isKey
+		lineageTag: 02b3c4d5-0001
+		summarizeBy: none
+
+	column customer_id
+		dataType: string
+		lineageTag: 02b3c4d5-0002
+		summarizeBy: none
+
+	column gender
+		dataType: string
+		lineageTag: 02b3c4d5-0003
+		summarizeBy: none
+
+	column senior_citizen_flag
+		dataType: int64
+		formatString: 0
+		lineageTag: 02b3c4d5-0004
+		summarizeBy: none
+
+	column senior_citizen_label
+		dataType: string
+		lineageTag: 02b3c4d5-0005
+		summarizeBy: none
+
+	column partner_flag
+		dataType: int64
+		formatString: 0
+		lineageTag: 02b3c4d5-0006
+		summarizeBy: none
+
+	column partner_label
+		dataType: string
+		lineageTag: 02b3c4d5-0007
+		summarizeBy: none
+
+	column dependents_flag
+		dataType: int64
+		formatString: 0
+		lineageTag: 02b3c4d5-0008
+		summarizeBy: none
+
+	column dependents_label
+		dataType: string
+		lineageTag: 02b3c4d5-0009
+		summarizeBy: none
+
+	column family_structure
+		dataType: string
+		lineageTag: 02b3c4d5-0010
+		summarizeBy: none
+
+	partition dim_customer = m
+		mode: import
+		source =
+			let
+				Source = Csv.Document(File.Contents("../data/clean/dim_customer.csv"),[Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
+			in
+				#"Promoted Headers"

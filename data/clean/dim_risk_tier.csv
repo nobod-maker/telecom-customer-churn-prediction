@@ -1,0 +1,4 @@
+risk_tier_key,risk_tier_label,min_probability,max_probability,recommended_retention_action
+1,Low,0.0,0.35,Loyalty Appreciation & Digital Self-Service
+2,Medium,0.35,0.65,Feature Adoption & Proactive Check-in
+3,High,0.65,1.0,Immediate Capped Retention Offer & Contract Migration

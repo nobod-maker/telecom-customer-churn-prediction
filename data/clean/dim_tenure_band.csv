@@ -1,0 +1,6 @@
+tenure_band_key,tenure_band_label,min_months,max_months,lifecycle_stage
+1,0-6 Months,0,6,Infant Mortality / Onboarding
+2,7-12 Months,7,12,Early Adoption
+3,13-24 Months,13,24,Contract Renewal Window
+4,25-48 Months,25,48,Established Mid-Tenure
+5,49-72 Months,49,72,Mature Loyalist

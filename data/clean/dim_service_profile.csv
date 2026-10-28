@@ -1,0 +1,374 @@
+service_key,phone_service,multiple_lines,internet_service,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,has_tech_support_flag,has_online_security_flag,has_support_bundle_flag,total_service_count
+1,Yes,No,DSL,No,No,No,Yes,No,No,1,0,0,3
+2,Yes,No,DSL,No,No,Yes,No,No,Yes,0,0,0,4
+3,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,0,1,0,6
+4,No,No phone service,DSL,No,No,No,No,No,No,0,0,0,1
+5,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,0,0,2
+6,Yes,Yes,Fiber optic,No,No,No,No,No,No,0,0,0,3
+7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,0,0,1
+8,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,0,1,0,6
+9,No,No phone service,Fiber optic,No,No,Yes,No,Yes,No,0,0,0,3
+10,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,0,0,0,4
+11,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,0,0,0,5
+12,Yes,Yes,DSL,No,No,Yes,No,No,No,0,0,0,4
+13,Yes,No,DSL,No,No,No,No,No,No,0,0,0,2
+14,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,0,0,0,5
+15,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,0,0,0,4
+16,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,1,0,0,6
+17,Yes,No,Fiber optic,No,No,Yes,No,No,No,0,0,0,3
+18,Yes,No,DSL,No,No,No,Yes,Yes,Yes,1,0,0,5
+19,Yes,No,DSL,No,Yes,No,No,No,Yes,0,0,0,4
+20,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,0,0,0,6
+21,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,0,1,0,6
+22,No,No phone service,DSL,No,Yes,Yes,No,No,No,0,0,0,3
+23,No,No phone service,DSL,No,No,No,No,Yes,Yes,0,0,0,3
+24,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,0,0,0,4
+25,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,0,0,0,5
+26,Yes,Yes,DSL,No,Yes,No,Yes,No,No,1,0,0,5
+27,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,1,1,1,8
+28,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,1,0,0,5
+29,Yes,Yes,DSL,No,No,No,No,No,No,0,0,0,3
+30,Yes,No,DSL,No,No,Yes,Yes,Yes,No,1,0,0,5
+31,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,1,0,0,6
+32,Yes,No,DSL,Yes,No,Yes,No,No,No,0,1,0,4
+33,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,0,0,0,4
+34,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,0,0,0,5
+35,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,0,1,0,4
+36,No,No phone service,Fiber optic,No,Yes,No,No,No,No,0,0,0,2
+37,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,1,0,0,7
+38,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,1,0,0,6
+39,Yes,No,DSL,Yes,Yes,No,No,No,No,0,1,0,4
+40,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,0,0,0,4
+41,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,0,1,0,5
+42,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,0,1,0,5
+43,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,0,1,0,5
+44,No,No phone service,DSL,No,No,No,No,Yes,No,0,0,0,2
+45,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,0,0,0,6
+46,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,0,1,0,5
+47,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,0,0,0,4
+48,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,1,1,1,6
+49,Yes,Yes,DSL,Yes,No,No,No,No,No,0,1,0,4
+50,Yes,No,DSL,No,No,No,No,No,Yes,0,0,0,3
+51,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,1,1,1,6
+52,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,1,1,1,6
+53,No,No phone service,Fiber optic,No,No,No,Yes,Yes,No,1,0,0,3
+54,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,0,1,0,5
+55,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,1,0,0,7
+56,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,1,1,1,7
+57,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,0,0,0,6
+58,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,0,1,0,6
+59,No,No phone service,Fiber optic,No,No,Yes,No,No,Yes,0,0,0,3
+60,Yes,No,DSL,Yes,No,Yes,No,Yes,No,0,1,0,5
+61,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,0,0,0,5
+62,Yes,No,DSL,No,No,Yes,No,Yes,No,0,0,0,4
+63,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,0,1,0,7
+64,Yes,No,DSL,Yes,No,No,No,No,Yes,0,1,0,4
+65,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,1,0,0,4
+66,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,0,0,0,6
+67,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,1,0,0,6
+68,No,No phone service,Fiber optic,No,No,No,No,No,Yes,0,0,0,2
+69,Yes,No,DSL,No,No,No,No,Yes,No,0,0,0,3
+70,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,1,1,1,6
+71,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,1,1,1,5
+72,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,1,0,0,6
+73,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,1,1,1,8
+74,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,1,1,1,6
+75,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,1,0,0,6
+76,No,No phone service,DSL,No,No,Yes,Yes,No,No,1,0,0,3
+77,Yes,No,DSL,Yes,No,No,Yes,No,No,1,1,1,4
+78,Yes,No,Fiber optic,No,No,No,No,Yes,No,0,0,0,3
+79,Yes,No,DSL,Yes,Yes,No,No,No,Yes,0,1,0,5
+80,Yes,No,DSL,Yes,No,Yes,No,No,Yes,0,1,0,5
+81,Yes,No,DSL,Yes,No,No,Yes,Yes,No,1,1,1,5
+82,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,1,0,0,7
+83,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,1,1,1,7
+84,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,0,0,0,4
+85,Yes,No,DSL,No,Yes,No,No,No,No,0,0,0,3
+86,No,No phone service,DSL,No,No,Yes,No,Yes,No,0,0,0,3
+87,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,0,0,0,5
+88,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,0,1,0,6
+89,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,0,0,0,5
+90,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,0,0,0
+91,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,1,1,1,8
+92,Yes,Yes,DSL,Yes,No,No,No,No,Yes,0,1,0,5
+93,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,1,1,1,7
+94,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,1,0,0,6
+95,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,0,0,0,4
+96,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,0,1,0,7
+97,Yes,Yes,DSL,No,No,No,Yes,No,Yes,1,0,0,5
+98,Yes,Yes,DSL,Yes,No,No,Yes,No,No,1,1,1,5
+99,Yes,No,Fiber optic,No,No,No,No,No,Yes,0,0,0,3
+100,Yes,No,Fiber optic,No,Yes,No,No,No,No,0,0,0,3
+101,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,1,0,0,5
+102,Yes,Yes,DSL,Yes,Yes,No,No,No,No,0,1,0,5
+103,No,No phone service,Fiber optic,No,No,No,No,Yes,Yes,0,0,0,3
+104,Yes,No,DSL,No,No,Yes,No,No,No,0,0,0,3
+105,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,1,0,0,5
+106,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,0,1,0,6
+107,Yes,Yes,DSL,No,Yes,No,No,Yes,No,0,0,0,5
+108,Yes,Yes,DSL,No,Yes,No,No,No,No,0,0,0,4
+109,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,1,0,0,6
+110,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,0,0,0,6
+111,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,0,0,0,6
+112,Yes,Yes,DSL,No,No,No,No,Yes,No,0,0,0,4
+113,Yes,Yes,DSL,No,No,No,Yes,No,No,1,0,0,4
+114,Yes,No,DSL,Yes,Yes,No,Yes,No,No,1,1,1,5
+115,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,1,1,1,8
+116,Yes,No,DSL,No,No,Yes,Yes,No,No,1,0,0,4
+117,Yes,No,DSL,Yes,No,No,No,No,No,0,1,0,3
+118,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,1,0,0,7
+119,Yes,No,DSL,No,No,Yes,No,Yes,Yes,0,0,0,5
+120,Yes,No,DSL,No,No,No,Yes,Yes,No,1,0,0,4
+121,Yes,No,Fiber optic,No,No,No,No,No,No,0,0,0,2
+122,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,0,0,0,5
+123,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,1,1,1,6
+124,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,0,1,0,4
+125,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,0,0,0,5
+126,Yes,Yes,DSL,No,No,No,No,No,Yes,0,0,0,4
+127,Yes,No,DSL,No,Yes,No,Yes,No,No,1,0,0,4
+128,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,1,1,1,7
+129,Yes,No,Fiber optic,Yes,No,No,No,No,No,0,1,0,3
+130,No,No phone service,Fiber optic,Yes,No,Yes,No,Yes,Yes,0,1,0,5
+131,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,1,0,0,5
+132,No,No phone service,DSL,No,Yes,No,No,Yes,No,0,0,0,3
+133,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,1,0,0,6
+134,Yes,Yes,DSL,No,No,Yes,No,No,Yes,0,0,0,5
+135,Yes,No,DSL,No,Yes,No,Yes,No,Yes,1,0,0,5
+136,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,0,1,0,6
+137,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,1,1,1,7
+138,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,1,0,0,4
+139,Yes,Yes,DSL,No,No,Yes,Yes,No,No,1,0,0,5
+140,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,0,1,0,5
+141,Yes,No,DSL,No,Yes,Yes,No,No,No,0,0,0,4
+142,Yes,No,DSL,No,Yes,No,Yes,Yes,No,1,0,0,5
+143,Yes,Yes,DSL,No,No,No,Yes,Yes,No,1,0,0,5
+144,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,0,1,0,7
+145,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,0,1,0,6
+146,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,1,1,1,6
+147,No,No phone service,DSL,Yes,Yes,No,No,No,Yes,0,1,0,4
+148,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,0,1,0,4
+149,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,1,1,1,7
+150,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,0,1,0,5
+151,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,0,1,0,5
+152,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,1,0,0,5
+153,Yes,No,DSL,Yes,No,No,No,Yes,Yes,0,1,0,5
+154,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,0,1,0,6
+155,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,0,1,0,7
+156,No,No phone service,DSL,No,No,No,Yes,No,Yes,1,0,0,3
+157,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,1,1,1,7
+158,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,1,0,0,6
+159,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,1,0,0,6
+160,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,0,1,0,6
+161,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,1,0,0,7
+162,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,0,1,0,6
+163,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,0,1,0,4
+164,No,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,0,0,0,4
+165,Yes,No,DSL,Yes,Yes,Yes,No,No,No,0,1,0,5
+166,Yes,No,Fiber optic,No,No,No,Yes,No,No,1,0,0,3
+167,No,No phone service,DSL,No,Yes,No,Yes,No,No,1,0,0,3
+168,No,No phone service,DSL,Yes,No,No,No,No,Yes,0,1,0,3
+169,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,No,1,1,1,5
+170,Yes,No,DSL,No,Yes,No,No,Yes,Yes,0,0,0,5
+171,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,0,0,0,6
+172,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,1,0,0,5
+173,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,1,1,1,7
+174,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,1,0,0,5
+175,Yes,No,DSL,No,Yes,Yes,No,Yes,Yes,0,0,0,6
+176,Yes,No,DSL,Yes,No,Yes,Yes,No,No,1,1,1,5
+177,Yes,Yes,DSL,Yes,No,No,No,Yes,No,0,1,0,5
+178,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,1,1,1,6
+179,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,1,0,0,6
+180,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,1,1,1,6
+181,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,0,1,0,5
+182,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,0,0,0,6
+183,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,1,0,0,6
+184,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,1,1,1,7
+185,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,1,1,1,6
+186,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,1,1,1,6
+187,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,0,1,0,7
+188,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,1,0,0,4
+189,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,No,0,1,0,4
+190,No,No phone service,Fiber optic,No,No,No,Yes,No,No,1,0,0,2
+191,Yes,Yes,DSL,No,Yes,No,No,No,Yes,0,0,0,5
+192,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,0,0,0,7
+193,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,1,1,1,6
+194,Yes,Yes,DSL,No,No,No,No,Yes,Yes,0,0,0,5
+195,Yes,No,DSL,No,Yes,No,No,Yes,No,0,0,0,4
+196,Yes,No,DSL,No,No,No,Yes,No,Yes,1,0,0,4
+197,No,No phone service,Fiber optic,No,No,No,No,No,No,0,0,0,1
+198,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,1,0,0,5
+199,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,0,0,0,7
+200,No,No phone service,Fiber optic,No,Yes,Yes,Yes,No,No,1,0,0,4
+201,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,0,1,0,8
+202,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,0,1,0,6
+203,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,1,1,1,6
+204,Yes,Yes,DSL,Yes,No,Yes,No,No,No,0,1,0,5
+205,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,0,0,0,5
+206,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,1,1,1,7
+207,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,1,1,1,5
+208,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,1,0,0,4
+209,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,1,1,1,8
+210,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,0,1,0,6
+211,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,0,1,0,5
+212,Yes,No,DSL,No,No,No,No,Yes,Yes,0,0,0,4
+213,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,0,0,0,4
+214,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,1,1,1,6
+215,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,1,0,0,7
+216,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,1,0,0,8
+217,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,1,0,0,6
+218,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,1,0,0,5
+219,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,1,1,1,7
+220,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,0,1,0,6
+221,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,0,0,0,4
+222,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,1,0,0,5
+223,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,1,1,1,5
+224,No,No phone service,DSL,No,Yes,No,No,No,No,0,0,0,2
+225,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,1,1,1,7
+226,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,0,0,0,4
+227,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,0,1,0,7
+228,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,1,1,1,4
+229,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,0,0,0,4
+230,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,1,0,0,5
+231,No,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,0,0,0,4
+232,Yes,No,DSL,Yes,No,No,No,Yes,No,0,1,0,4
+233,No,No phone service,Fiber optic,No,Yes,No,No,No,Yes,0,0,0,3
+234,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,0,0,0,4
+235,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,1,1,1,4
+236,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,1,0,0,6
+237,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,0,0,0,4
+238,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,0,1,0,4
+239,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,0,1,0,6
+240,Yes,No,DSL,Yes,No,No,Yes,No,Yes,1,1,1,5
+241,No,No phone service,Fiber optic,No,No,No,No,Yes,No,0,0,0,2
+242,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,1,1,1,5
+243,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,0,1,0,6
+244,No,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,1,0,0,5
+245,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,1,1,1,4
+246,No,No phone service,Fiber optic,No,Yes,No,Yes,No,No,1,0,0,3
+247,No,No phone service,Fiber optic,No,No,Yes,No,Yes,Yes,0,0,0,4
+248,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,1,1,1,7
+249,Yes,Yes,DSL,No,Yes,Yes,No,No,No,0,0,0,5
+250,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,0,1,0,6
+251,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,1,0,0,7
+252,No,No phone service,DSL,Yes,No,No,Yes,Yes,Yes,1,1,1,5
+253,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,0,1,0,4
+254,No,No phone service,DSL,No,No,Yes,No,No,Yes,0,0,0,3
+255,Yes,Yes,DSL,Yes,Yes,No,No,Yes,Yes,0,1,0,7
+256,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,0,1,0,7
+257,No,No phone service,DSL,No,No,No,No,No,Yes,0,0,0,2
+258,No,No phone service,DSL,No,No,No,Yes,Yes,No,1,0,0,3
+259,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,1,0,0,6
+260,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,1,0,0,4
+261,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,1,1,1,6
+262,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,Yes,1,1,1,5
+263,Yes,No,DSL,No,Yes,Yes,Yes,No,No,1,0,0,5
+264,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,0,1,0,7
+265,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,1,1,1,4
+266,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,0,1,0,8
+267,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,1,1,1,7
+268,No,No phone service,Fiber optic,Yes,Yes,No,No,No,No,0,1,0,3
+269,No,No phone service,Fiber optic,Yes,No,No,No,No,Yes,0,1,0,3
+270,Yes,No,Fiber optic,Yes,No,No,Yes,No,Yes,1,1,1,5
+271,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,0,1,0,7
+272,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,1,0,0,4
+273,No,No phone service,DSL,No,No,No,Yes,No,No,1,0,0,2
+274,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,0,1,0,6
+275,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,1,1,1,7
+276,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,1,0,0,7
+277,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,1,1,1,7
+278,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,No,1,0,0,4
+279,No,No phone service,Fiber optic,No,Yes,No,No,Yes,No,0,0,0,3
+280,No,No phone service,DSL,No,Yes,No,No,No,Yes,0,0,0,3
+281,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,1,0,0,6
+282,No,No phone service,Fiber optic,No,No,Yes,Yes,No,No,1,0,0,3
+283,No,No phone service,DSL,Yes,No,Yes,No,No,No,0,1,0,3
+284,Yes,Yes,DSL,No,No,Yes,No,Yes,No,0,0,0,5
+285,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,1,1,1,6
+286,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,1,0,0,6
+287,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,Yes,0,0,0,5
+288,No,No phone service,Fiber optic,No,No,Yes,No,No,No,0,0,0,2
+289,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,0,1,0,5
+290,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,1,1,1,6
+291,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,9
+292,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,0,1,0,6
+293,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,0,1,0,4
+294,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,1,1,1,6
+295,Yes,No,DSL,No,Yes,Yes,No,No,Yes,0,0,0,5
+296,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,1,0,0,6
+297,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,1,1,1,6
+298,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,1,1,1,6
+299,No,No phone service,Fiber optic,No,No,No,Yes,Yes,Yes,1,0,0,4
+300,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,No,1,1,1,4
+301,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,0,1,0,4
+302,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,8
+303,Yes,No,DSL,No,No,Yes,Yes,No,Yes,1,0,0,5
+304,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,1,1,1,7
+305,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,1,1,1,7
+306,No,No phone service,Fiber optic,Yes,No,No,No,Yes,No,0,1,0,3
+307,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,1,0,0,5
+308,No,No phone service,DSL,Yes,No,No,Yes,No,No,1,1,1,3
+309,No,No phone service,Fiber optic,No,No,Yes,Yes,No,Yes,1,0,0,4
+310,No,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,1,1,1,4
+311,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,1,0,0,6
+312,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,1,1,1,6
+313,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,1,1,1,6
+314,No,No phone service,Fiber optic,No,Yes,No,Yes,Yes,Yes,1,0,0,5
+315,No,No phone service,DSL,Yes,Yes,No,No,No,No,0,1,0,3
+316,No,No phone service,Fiber optic,Yes,No,No,No,No,No,0,1,0,2
+317,No,No phone service,Fiber optic,Yes,Yes,No,No,No,Yes,0,1,0,4
+318,No,No phone service,Fiber optic,Yes,No,Yes,No,Yes,No,0,1,0,4
+319,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,1,1,1,8
+320,No,No phone service,Fiber optic,No,No,No,Yes,No,Yes,1,0,0,3
+321,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,1,0,0,7
+322,No,No phone service,DSL,No,No,Yes,No,No,No,0,0,0,2
+323,No,No phone service,DSL,Yes,No,Yes,No,Yes,No,0,1,0,4
+324,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,1,1,1,7
+325,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,1,0,0,4
+326,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,0,0,0,6
+327,Yes,No,DSL,Yes,Yes,No,No,Yes,No,0,1,0,5
+328,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,1,1,1,5
+329,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,8
+330,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,0,1,0,6
+331,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,1,0,0,4
+332,Yes,No,DSL,No,Yes,Yes,No,Yes,No,0,0,0,5
+333,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,No,1,0,0,5
+334,No,No phone service,Fiber optic,Yes,No,Yes,No,No,No,0,1,0,3
+335,No,No phone service,DSL,No,No,Yes,Yes,Yes,No,1,0,0,4
+336,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,9
+337,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,1,1,1,6
+338,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,1,0,0,8
+339,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,1,0,0,5
+340,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,1,1,1,7
+341,No,No phone service,DSL,Yes,No,No,No,No,No,0,1,0,2
+342,No,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,1,1,1,6
+343,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,0,1,0,5
+344,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,0,1,0,5
+345,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,0,0,0,5
+346,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,1,1,1,6
+347,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,1,1,1,5
+348,No,No phone service,DSL,Yes,No,No,No,Yes,No,0,1,0,3
+349,No,No phone service,Fiber optic,No,Yes,No,Yes,Yes,No,1,0,0,4
+350,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,0,1,0,6
+351,No,No phone service,Fiber optic,Yes,No,Yes,No,No,Yes,0,1,0,4
+352,No,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,1,1,1,5
+353,No,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,0,1,0,4
+354,No,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,0,1,0,5
+355,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,0,1,0,5
+356,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,1,0,0,6
+357,No,No phone service,DSL,Yes,No,No,Yes,No,Yes,1,1,1,4
+358,No,No phone service,DSL,Yes,No,No,No,Yes,Yes,0,1,0,4
+359,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,1,1,1,5
+360,No,No phone service,DSL,No,Yes,No,Yes,Yes,No,1,0,0,4
+361,No,No phone service,Fiber optic,No,Yes,Yes,No,No,No,0,0,0,3
+362,No,No phone service,Fiber optic,No,Yes,No,Yes,No,Yes,1,0,0,4
+363,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,1,0,0,7
+364,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,1,1,1,5
+365,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,No,1,1,1,5
+366,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,1,1,1,4
+367,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,1,1,1,6
+368,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,1,1,1,8
+369,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,Yes,1,0,0,5
+370,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,1,1,1,8
+371,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,1,0,0,4
+372,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,1,1,1,5
+373,No,No phone service,Fiber optic,No,Yes,Yes,Yes,No,Yes,1,0,0,5

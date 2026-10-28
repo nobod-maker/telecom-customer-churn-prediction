@@ -1,0 +1,25 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "chart_payment_friction",
+  "position": {
+    "x": 20,
+    "y": 490,
+    "z": 1000,
+    "height": 200,
+    "width": 600,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "pieChart",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            "Churn Rate by Payment Method"
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

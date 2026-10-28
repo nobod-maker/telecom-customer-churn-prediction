@@ -1,0 +1,25 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "key_influencers_churn",
+  "position": {
+    "x": 790,
+    "y": 20,
+    "z": 1000,
+    "height": 450,
+    "width": 450,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "keyInfluencersVisual",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            "Top Churn Influencers"
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

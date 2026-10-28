@@ -1,0 +1,88 @@
+table _Measures
+	lineageTag: c1bf3ae8-6c9f-4e88-4be9-5eb18c6f9b08
+
+	measure 'Total Customers' = COUNTROWS(fact_churn_analysis)
+		formatString: #,##0
+		lineageTag: m01-0001
+
+	measure 'Churned Customers' = CALCULATE(COUNTROWS(fact_churn_analysis), fact_churn_analysis[churn_flag] = 1)
+		formatString: #,##0
+		lineageTag: m01-0002
+
+	measure 'Retained Customers' = CALCULATE(COUNTROWS(fact_churn_analysis), fact_churn_analysis[churn_flag] = 0)
+		formatString: #,##0
+		lineageTag: m01-0003
+
+	measure 'Churn Rate %' = DIVIDE([Churned Customers], [Total Customers], 0.0)
+		formatString: 0.0%
+		lineageTag: m01-0004
+
+	measure 'Total MRR' = SUM(fact_churn_analysis[monthly_charges])
+		formatString: "$"#,##0.00
+		lineageTag: m01-0005
+
+	measure 'Churned MRR' = CALCULATE(SUM(fact_churn_analysis[monthly_charges]), fact_churn_analysis[churn_flag] = 1)
+		formatString: "$"#,##0.00
+		lineageTag: m01-0006
+
+	measure 'Average Monthly Charges' = AVERAGE(fact_churn_analysis[monthly_charges])
+		formatString: "$"#,##0.00
+		lineageTag: m01-0007
+
+	measure 'Total Lifetime Charges' = SUM(fact_churn_analysis[total_charges])
+		formatString: "$"#,##0.00
+		lineageTag: m01-0008
+
+	measure 'Revenue at Risk' = CALCULATE([Total MRR], fact_churn_analysis[churn_flag] = 1 || RELATED(dim_risk_tier[risk_tier_label]) = "High")
+		formatString: "$"#,##0.00
+		lineageTag: m01-0009
+
+	measure 'High Risk Customer Count' = CALCULATE(COUNTROWS(fact_churn_analysis), RELATED(dim_risk_tier[risk_tier_label]) = "High")
+		formatString: #,##0
+		lineageTag: m01-0010
+
+	measure 'High Risk Customer Share %' = DIVIDE([High Risk Customer Count], [Total Customers], 0.0)
+		formatString: 0.0%
+		lineageTag: m01-0011
+
+	measure 'Total CLV at Risk' = CALCULATE(SUM(fact_churn_analysis[clv_estimate]), RELATED(dim_risk_tier[risk_tier_label]) = "High")
+		formatString: "$"#,##0.00
+		lineageTag: m01-0012
+
+	measure 'Average Tenure Months' = AVERAGE(fact_churn_analysis[tenure_months])
+		formatString: 0.0
+		lineageTag: m01-0013
+
+	measure 'Simulated Save Rate %' = 0.18
+		formatString: 0.0%
+		lineageTag: m01-0014
+
+	measure 'Simulated Cost Per Offer' = 35.00
+		formatString: "$"#,##0.00
+		lineageTag: m01-0015
+
+	measure 'Simulated Net Preserved Revenue' = 
+		VAR HighRiskRev = [Revenue at Risk]
+		VAR SavedRev = HighRiskRev * 12 * [Simulated Save Rate %]
+		VAR TotalCost = [High Risk Customer Count] * [Simulated Cost Per Offer]
+		RETURN
+		SavedRev - TotalCost
+		formatString: "$"#,##0.00
+		lineageTag: m01-0016
+
+	measure 'Campaign ROI %' = 
+		VAR HighRiskCount = [High Risk Customer Count]
+		VAR TotalCost = HighRiskCount * [Simulated Cost Per Offer]
+		VAR NetRev = [Simulated Net Preserved Revenue]
+		RETURN
+		DIVIDE(NetRev, TotalCost, 0.0)
+		formatString: 0.0%
+		lineageTag: m01-0017
+
+	partition _Measures = m
+		mode: import
+		source =
+			let
+				Source = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i44FAA==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [Column1 = _t])
+			in
+				Source

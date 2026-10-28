@@ -1,0 +1,87 @@
+table dim_service_profile
+	lineageTag: e7dbf6a4-2e5b-4c44-0da5-1a7f4e2b5d04
+
+	column service_key
+		dataType: int64
+		formatString: 0
+		isKey
+		lineageTag: 04d5e6f7-0001
+		summarizeBy: none
+
+	column phone_service
+		dataType: string
+		lineageTag: 04d5e6f7-0002
+		summarizeBy: none
+
+	column multiple_lines
+		dataType: string
+		lineageTag: 04d5e6f7-0003
+		summarizeBy: none
+
+	column internet_service
+		dataType: string
+		lineageTag: 04d5e6f7-0004
+		summarizeBy: none
+
+	column online_security
+		dataType: string
+		lineageTag: 04d5e6f7-0005
+		summarizeBy: none
+
+	column online_backup
+		dataType: string
+		lineageTag: 04d5e6f7-0006
+		summarizeBy: none
+
+	column device_protection
+		dataType: string
+		lineageTag: 04d5e6f7-0007
+		summarizeBy: none
+
+	column tech_support
+		dataType: string
+		lineageTag: 04d5e6f7-0008
+		summarizeBy: none
+
+	column streaming_tv
+		dataType: string
+		lineageTag: 04d5e6f7-0009
+		summarizeBy: none
+
+	column streaming_movies
+		dataType: string
+		lineageTag: 04d5e6f7-0010
+		summarizeBy: none
+
+	column has_tech_support_flag
+		dataType: int64
+		formatString: 0
+		lineageTag: 04d5e6f7-0011
+		summarizeBy: none
+
+	column has_online_security_flag
+		dataType: int64
+		formatString: 0
+		lineageTag: 04d5e6f7-0012
+		summarizeBy: none
+
+	column has_support_bundle_flag
+		dataType: int64
+		formatString: 0
+		lineageTag: 04d5e6f7-0013
+		summarizeBy: none
+
+	column total_service_count
+		dataType: int64
+		formatString: 0
+		lineageTag: 04d5e6f7-0014
+		summarizeBy: average
+
+	partition dim_service_profile = m
+		mode: import
+		source =
+			let
+				Source = Csv.Document(File.Contents("../data/clean/dim_service_profile.csv"),[Delimiter=",", Columns=14, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
+			in
+				#"Promoted Headers"

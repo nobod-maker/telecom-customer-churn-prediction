@@ -1,0 +1,25 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "chart_tenure_hazard",
+  "position": {
+    "x": 640,
+    "y": 150,
+    "z": 1000,
+    "height": 320,
+    "width": 600,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "columnChart",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            "Customer Count & Churn by Tenure Band"
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

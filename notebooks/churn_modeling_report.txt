@@ -1,0 +1,32 @@
+TELECOM CHURN PREDICTION & RETENTION MODELING REPORT
+============================================================
+
+Total Customer Population: 7,043
+Baseline Churn Rate: 26.54%
+XGBoost Champion ROC-AUC: 0.9636
+XGBoost Champion PR-AUC: 0.9072
+Top 20% Decile Churn Capture: 68.49%
+Top 20% Decile Lift: 3.43x
+
+Decile Gains Table:
+ Decile  Customers  Churners  Decile Churn %  Cum Churners  Cum Capture %  Decile Lift  Cum Lift
+      1        705       686           97.30           686          36.70         3.67      3.67
+      2        704       594           84.38          1280          68.49         3.18      3.43
+      3        704       350           49.72          1630          87.21         1.87      2.91
+      4        704       173           24.57          1803          96.47         0.93      2.41
+      5        705        48            6.81          1851          99.04         0.26      1.98
+      6        704        17            2.41          1868          99.95         0.09      1.67
+      7        704         1            0.14          1869         100.00         0.01      1.43
+      8        704         0            0.00          1869         100.00         0.00      1.25
+      9        704         0            0.00          1869         100.00         0.00      1.11
+     10        705         0            0.00          1869         100.00         0.00      1.00
+
+Top SHAP Churn Drivers:
+  1. tenure: 1.4105
+  2. Contract_Two year: 0.9662
+  3. Contract_One year: 0.6182
+  4. InternetService_Fiber optic: 0.5628
+  5. TechSupport_Yes: 0.5597
+  6. PaymentMethod_Electronic check: 0.5377
+  7. OnlineSecurity_Yes: 0.3882
+  8. InternetService_No: 0.3748

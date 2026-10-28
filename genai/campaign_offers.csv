@@ -1,0 +1,651 @@
+customer_id,contract_type,internet_service,risk_tier,churn_prob,top_driver,prescribed_offer,monthly_discount_usd,duration_months,total_concession_cost,channel,sms_copy,email_copy,projected_save_rate,expected_net_roi,approval_status
+6390-FNAFQ,Month-to-month,Fiber optic,High,0.9202,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.24,PENDING_MARKETING_APPROVAL
+6191-OFPVA,Month-to-month,DSL,High,0.9593,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.54,PENDING_MARKETING_APPROVAL
+7265-ICCWP,One year,Fiber optic,High,0.7531,Fiber optic without Tech Support & Electronic check friction,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.72,PENDING_MARKETING_APPROVAL
+2685-JFGYQ,Month-to-month,Fiber optic,High,0.9965,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.13,PENDING_MARKETING_APPROVAL
+3433-UFAIG,Month-to-month,Fiber optic,High,0.9915,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.1,PENDING_MARKETING_APPROVAL
+7420-OGPXK,Month-to-month,Fiber optic,High,0.9835,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.95,PENDING_MARKETING_APPROVAL
+5555-CQUKB,Month-to-month,Fiber optic,High,0.9919,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.67,PENDING_MARKETING_APPROVAL
+7396-ASRNG,Month-to-month,DSL,High,0.9629,Month-to-month agreement & Electronic check friction,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.0,PENDING_MARKETING_APPROVAL
+3047-TOUNA,Month-to-month,DSL,High,0.9556,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.38,PENDING_MARKETING_APPROVAL
+1189-HBWYC,Month-to-month,Fiber optic,High,0.9791,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.91,PENDING_MARKETING_APPROVAL
+4005-MOGWL,Month-to-month,No,High,0.6704,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.54,PENDING_MARKETING_APPROVAL
+4556-YOMUU,Month-to-month,DSL,High,0.764,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.18,PENDING_MARKETING_APPROVAL
+4890-ECLLM,Month-to-month,DSL,High,0.8396,Month-to-month agreement & Electronic check friction,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.0,PENDING_MARKETING_APPROVAL
+8513-ZYWEM,Month-to-month,Fiber optic,High,0.9875,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.9,PENDING_MARKETING_APPROVAL
+6486-ZPOTB,Month-to-month,No,High,0.8914,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.54,PENDING_MARKETING_APPROVAL
+1775-CEPRG,Month-to-month,DSL,High,0.9579,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.04,PENDING_MARKETING_APPROVAL
+9226-DXGPQ,Month-to-month,Fiber optic,High,0.9382,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.83,PENDING_MARKETING_APPROVAL
+8555-ZBFGY,Month-to-month,Fiber optic,High,0.7631,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.02,PENDING_MARKETING_APPROVAL
+4073-WWJEV,Month-to-month,No,High,0.6803,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.62,PENDING_MARKETING_APPROVAL
+2021-SPZRA,Month-to-month,Fiber optic,High,0.8131,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.1,PENDING_MARKETING_APPROVAL
+8989-DCOHP,Month-to-month,Fiber optic,High,0.9948,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.26,PENDING_MARKETING_APPROVAL
+5297-OLABW,Month-to-month,DSL,High,0.6682,Month-to-month agreement,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.02,PENDING_MARKETING_APPROVAL
+1995-XOVPD,Month-to-month,DSL,High,0.9424,Month-to-month agreement,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.06,PENDING_MARKETING_APPROVAL
+7439-WZVWA,Month-to-month,No,High,0.7703,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.65,PENDING_MARKETING_APPROVAL
+8916-WFVLH,Month-to-month,Fiber optic,High,0.8659,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.13,PENDING_MARKETING_APPROVAL
+1878-WZHQK,Month-to-month,Fiber optic,High,0.9408,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.83,PENDING_MARKETING_APPROVAL
+5887-ZNYCZ,Month-to-month,DSL,High,0.8961,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.24,PENDING_MARKETING_APPROVAL
+7331-SIPNK,Month-to-month,Fiber optic,High,0.9979,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.96,PENDING_MARKETING_APPROVAL
+9571-OGSAY,Month-to-month,DSL,High,0.8803,Month-to-month agreement,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.18,PENDING_MARKETING_APPROVAL
+9684-NSTRJ,Month-to-month,Fiber optic,High,0.9448,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.29,PENDING_MARKETING_APPROVAL
+8208-BRIIW,Month-to-month,DSL,High,0.9632,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.17,PENDING_MARKETING_APPROVAL
+9006-HLPRM,Month-to-month,Fiber optic,High,0.9893,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.05,PENDING_MARKETING_APPROVAL
+3568-LFMXU,Month-to-month,No,High,0.6835,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.54,PENDING_MARKETING_APPROVAL
+3695-AGMWB,Month-to-month,DSL,High,0.9413,Month-to-month agreement & Electronic check friction,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.03,PENDING_MARKETING_APPROVAL
+6618-GRATU,Month-to-month,DSL,High,0.8653,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.0,PENDING_MARKETING_APPROVAL
+7278-CHHIO,Month-to-month,DSL,High,0.8966,Month-to-month agreement,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.0,PENDING_MARKETING_APPROVAL
+4104-KOKFK,Month-to-month,DSL,High,0.9821,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.17,PENDING_MARKETING_APPROVAL
+3454-JAJTW,Month-to-month,Fiber optic,High,0.9252,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.08,PENDING_MARKETING_APPROVAL
+8385-ZJQUQ,Month-to-month,Fiber optic,High,0.6889,Month-to-month agreement & High-cost Fiber Optic tier,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.6,PENDING_MARKETING_APPROVAL
+7910-DROFS,Month-to-month,Fiber optic,High,0.9849,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.85,PENDING_MARKETING_APPROVAL
+1206-RYKSB,Month-to-month,Fiber optic,High,0.9862,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.84,PENDING_MARKETING_APPROVAL
+9755-WSHAY,Month-to-month,Fiber optic,High,0.9302,Month-to-month agreement & High-cost Fiber Optic tier,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.7,PENDING_MARKETING_APPROVAL
+6116-CSMTR,Month-to-month,DSL,High,0.7816,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,0.24,PENDING_MARKETING_APPROVAL
+2757-RHPMN,Month-to-month,Fiber optic,High,0.9623,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,1.9,PENDING_MARKETING_APPROVAL
+7892-TEFMS,Month-to-month,No,High,0.691,Month-to-month agreement & Electronic check friction,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.54,PENDING_MARKETING_APPROVAL
+2678-ZNHCF,Month-to-month,DSL,High,0.9714,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.38,PENDING_MARKETING_APPROVAL
+4242-FEANH,Month-to-month,Fiber optic,High,0.9922,Month-to-month agreement & Fiber optic without Tech Support,Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.01,PENDING_MARKETING_APPROVAL
+2059-MWOML,Month-to-month,DSL,High,0.8904,Month-to-month agreement & Electronic check friction,Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.01,PENDING_MARKETING_APPROVAL
+7668-EBYMV,Month-to-month,DSL,High,0.9591,Month-to-month agreement & Infant tenure (<6m),Annual Contract Stability Discount,10.0,12,120.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 12 months with our Annual Contract Stability Discount. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Annual Contract Stability Discount.
+
+Offer Details:
+• Concession: $10.00 credit per month for 12 consecutive billing cycles
+• Value: Total promotional value of $120.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,-0.12,PENDING_MARKETING_APPROVAL
+3693-PUFNL,Month-to-month,Fiber optic,High,0.9921,Month-to-month agreement & Infant tenure (<6m),Complimentary TechSupport & Security Shield,10.0,6,60.0,Omnichannel (SMS + Email),Telco Perk: Enjoy $10/mo off for 6 months with our Complimentary TechSupport & Security Shield. Call 1-800-555-0199 or tap telco.com/save. Reply STOP to cancel.,"Dear Subscriber,
+
+Thank you for being part of the Telco family. We are committed to providing you with the best possible network reliability and value. As a valued customer, you have been selected for our exclusive Complimentary TechSupport & Security Shield.
+
+Offer Details:
+• Concession: $10.00 credit per month for 6 consecutive billing cycles
+• Value: Total promotional value of $60.00
+• Next Steps: Log in to your account at telco.com/portal or contact your dedicated retention specialist at 1-800-555-0199 before your next billing date.
+
+We appreciate your business and look forward to serving you.
+
+Sincerely,
+Customer Retention Strategy Team",0.18,2.02,PENDING_MARKETING_APPROVAL

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "decomp_revenue_risk",
+  "position": {
+    "x": 20,
+    "y": 20,
+    "z": 1000,
+    "height": 450,
+    "width": 750,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "decompositionTree",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            "Revenue at Risk Decomposition"
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
